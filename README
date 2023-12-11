@@ -1,0 +1,9 @@
+I came across an error I couldn't solve, not sure how I would change the training data to better fit 
+
+Line of code that has the error:
+
+x_train, x_test, y_test = train_test_split(x, y, test_size = 0.2, random_state = 42)
+
+Error Statement:
+Found input variables with inconsistent numbers of samples: [891, 2]
+
